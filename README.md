@@ -12,7 +12,7 @@ This app is built with a code using EXPRESS, that allows users to enter whatever
 * The URL of the GitHub repository: https://github.com/Mohammed-19992/note-taker
 
 ## ISC License
-Copyright <2020> <Mohammed arafat>
+Copyright 2020 Mohammed arafat
 
 Permission to use, copy, modify, and/or distribute this software for any purpose with or without fee is hereby granted, provided that the above copyright notice and this permission notice appear in all copies.
 
