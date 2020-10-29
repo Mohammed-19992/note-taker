@@ -5,8 +5,7 @@ Note Taker
 This app is built with a code using EXPRESS, that allows users to enter whatever information they want, save them, and then use them later.
 
 ## screenshot of the project:
-
-
+![horu (1)](https://user-images.githubusercontent.com/67847324/97511001-652bff80-195c-11eb-8a2f-c91c902cffb9.gif)
 
 ## Review
 -The URL of the app on Heroku: 
