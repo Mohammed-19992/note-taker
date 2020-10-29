@@ -2,23 +2,17 @@
   "name": "note-taker",
   "version": "1.0.0",
   "description": "",
-  "main": "index.html",
+  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "start": "node ./server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/mohammed-19992/Note-Taker.git"
-  },
-  "keywords": [],
-  "author": "",
+  "author": "Mohammed Arafat",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.3"
+    "express": "^4.16.4"
   },
-  "bugs": {
-    "url": "https://github.com/mohammed-19992/Note-Taker/issues"
-  },
-  "homepage": "https://github.com/mohammed-19992/Note-Taker#readme"
+  "devDependencies": {
+    "nodemon": "^2.0.0"
+  }
 }
