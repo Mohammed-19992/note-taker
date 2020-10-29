@@ -8,8 +8,8 @@ This app is built with a code using EXPRESS, that allows users to enter whatever
 ![horu (1)](https://user-images.githubusercontent.com/67847324/97511001-652bff80-195c-11eb-8a2f-c91c902cffb9.gif)
 
 ## Review
-*The URL of the app on Heroku: https://note-taker-mohammed.herokuapp.com/
-*The URL of the GitHub repository: https://github.com/Mohammed-19992/note-taker
+* The URL of the app on Heroku: https://note-taker-mohammed.herokuapp.com/
+* The URL of the GitHub repository: https://github.com/Mohammed-19992/note-taker
 
 ## ISC License
 Copyright <2020> <Mohammed arafat>
